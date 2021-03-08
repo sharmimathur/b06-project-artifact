@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Deep Learning for Particle Jet Multiclassification
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+As data scientists, we are often driven toward those domains which generate vast amounts of data. High-energy physics is no exception. The Large Hadron Collider (LHC) alone produces around 90 petabytes of data per year (roughly 240 terabytes per day). As such, there are thousands upon thousands of researchers combing through the LHC’s particle interactions to draw conclusions. But, there exists one major difficulty in doing so: the colliders themselves only have instruments that can detect physical quantities (energies, momentums, and the like). The LHC simulates particle collisions that result in a spray of subatomic particles called jets. Considering the many categories of jets (Higgs boson, singly charmed quarks, etc.), classification of jets must be conducted outside of the LHC by researchers and their algorithms.
+We implement multiple multiclass classifiers (CNN, GNN, ENN) to discriminate between six types of jets which may occur. While a similar classifier exists at the LHC, the ceiling for improvement extends higher with each advancement in machine learning- deep neural network architecture being the most recent. In implementing our own neural network, we strive to achieve a higher level of model performance.
