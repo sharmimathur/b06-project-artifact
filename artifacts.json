@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/sharmimathur/artifact-directory-template",
+    "project-repository": "https://github.com/Nroberts23/Multiclass-Particle-Jets-DSCB06.git",
+    "dockerhub-repository": "https://hub.docker.com/r/jmduarte/capstone-particle-physics-domain",
+    "project-website-url": "https://sharmimathur.github.io/multiclassification-particle-jets/",
+    "project-website-code": "https://github.com/sharmimathur/multiclassification-particle-jets.git"
 }
